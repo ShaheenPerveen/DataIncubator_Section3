@@ -11,5 +11,6 @@ Objective: Given above kaggle dataset, develop a model which could predict if a 
 I have developed a voting based ensemble model which is giving f1-score of 0.87.
 
 File Description - 
-model script: 
+model script: Codes/model_script.ipynb
+exploratory code: Codes/exploratory_analysis_and_visualization.ipynb
 
